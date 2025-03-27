@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "modul6_103022300049": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
